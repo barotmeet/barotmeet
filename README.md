@@ -274,7 +274,7 @@
 ## ☕ Beyond The Code
 
 <blockquote align="center">
-  <i>"Simplicity is prerequisite for reliability."</i> — <b>Edger W. Dijkstra</b>
+  <i>"Simplicity is prerequisite for reliability."</i>
 </blockquote>
 
 * ☕ **Coffee Lover:** Fueled by dark roast and structured logic.
